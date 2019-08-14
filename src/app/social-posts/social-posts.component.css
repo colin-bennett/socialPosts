@@ -1,0 +1,14 @@
+/* body {
+  padding: 20px;
+} */
+
+h1 {
+  font-family: "Homemade Apple", cursive;
+  color: rgb(3, 169, 244);
+  text-align: center;
+}
+
+p {
+  border: 1px solid black;
+  border-radius: 5px;
+}
